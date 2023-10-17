@@ -8,4 +8,4 @@ module.exports = {
     "next/core-web-vitals",
     "prettier",
   ],
-};
+}
