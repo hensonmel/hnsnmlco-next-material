@@ -11,4 +11,4 @@ A Next.js 13 App Router template for building apps with Material UI.
 
 ## License
 
-Licensed under the [MIT license](https://github.com/hensonmel/hnsnmlco-nextjs/blob/master/LICENSE.md).
+Licensed under the [MIT license](https://github.com/hensonmel/hnsnmlco-next-material/blob/master/LICENSE.md).
